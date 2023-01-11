@@ -1,0 +1,7 @@
+{
+  "name": "pushnoti",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
